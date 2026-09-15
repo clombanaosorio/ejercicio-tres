@@ -75,7 +75,7 @@ height: 100%;
 }
 
 .foto2 {
-height: 60%;
+height: 55%;
 }
 
 .foto2 img {
@@ -85,7 +85,7 @@ object-fit: cover;
 }
 
 .foto3 {
-height: 60%;
+height: 55%;
 }
 
 .foto3 img {
@@ -95,11 +95,11 @@ object-fit: cover;
 }
 
 .info-proyecto {
-height: 40%;
+height: 45%;
 display: flex;
 flex-direction: column;
 justify-content: center;
-padding: 0 20px;
+padding: 0 20%;
 }
 
 .info-proyecto h2 {
@@ -110,6 +110,7 @@ font-size: 20px;
 .info-proyecto p {
 margin: 0;
 font-size: 14px;
+text-align: justify;
 }
 
 
