@@ -50,16 +50,20 @@ line-height: 1.5;
 height: 100%;
 display: flex;
 flex-direction: row;
-justify-content: flex-end;
+justify-content: flex-start;
 align-items: center;
 gap: 30px;
-padding-right: 40px;
+padding-left: 40px;
 }
 
-.navegacion a:hover {
-text-decoration: underline;
+.navegacion a {
+text-decoration: none;
 color: #1A1A1A;
 font-size: 14px;
+}
+
+.navegacion a:visited {
+color: #1A1A1A;
 }
 
 .proyectos {
@@ -121,4 +125,5 @@ flex-direction: row;
 justify-content: space-between;
 align-items: center;
 padding: 0 40px;
+background-color: #F3F4F6;
 }
