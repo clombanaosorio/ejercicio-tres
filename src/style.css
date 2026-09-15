@@ -23,6 +23,7 @@ height: 60%;
 .foto1 img {
 width: 100%;
 height: 100%;
+object-fit: cover;
 }
 
 .marca {
@@ -79,7 +80,7 @@ height: 100%;
 }
 
 .foto2 {
-height: 55%;
+height: 60%;
 }
 
 .foto2 img {
@@ -89,7 +90,7 @@ object-fit: cover;
 }
 
 .foto3 {
-height: 55%;
+height: 60%;
 }
 
 .foto3 img {
@@ -99,7 +100,7 @@ object-fit: cover;
 }
 
 .info-proyecto {
-height: 45%;
+height: 40%;
 display: flex;
 flex-direction: column;
 justify-content: flex-start;
