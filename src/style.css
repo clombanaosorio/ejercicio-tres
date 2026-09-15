@@ -1,5 +1,19 @@
 .columna-izquierda{
  width: 50%;
 height: 100vh;
+display: flex;
+flex-direction: column;
+}
 
+.foto1 {
+height: 60%;
+}
+
+.foto1 img {
+    width: 100%;
+    height: 100%;
+}
+
+.marca {
+    height: 40%;
 }
