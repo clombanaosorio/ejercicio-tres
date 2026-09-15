@@ -98,8 +98,8 @@ object-fit: cover;
 height: 45%;
 display: flex;
 flex-direction: column;
-justify-content: center;
-padding: 0 20%;
+justify-content: flex-start;
+padding: 15px 20px 0 20px;
 }
 
 .info-proyecto h2 {
