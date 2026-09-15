@@ -93,6 +93,24 @@ height: 100%;
 object-fit: cover;
 }
 
+.info-proyecto {
+height: 40%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 0 20px;
+}
+
+.info-proyecto h2 {
+margin: 0 0 10px 0;
+font-size: 20px;
+}
+
+.info-proyecto p {
+margin: 0;
+font-size: 14px;
+}
+
 .pie-pagina {
 height: 15%;
 display: flex;
