@@ -55,3 +55,34 @@ padding-right: 40px;
 text-decoration: none;
 color: #1A1A1A;
 }
+
+.proyectos {
+height: 70%;
+display: flex;
+flex-direction: row;
+}
+
+.proyecto {
+width: 50%;
+height: 100%;
+}
+
+.foto2 {
+height: 60%;
+}
+
+.foto2 img {
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+.foto3 {
+height: 60%;
+}
+
+.foto3 img {
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
