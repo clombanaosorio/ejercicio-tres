@@ -36,12 +36,14 @@ padding: 0 40px;
 
 .marca h1 {
 font-size: 40px;
-margin: 0;
+margin: 0 0 10px 0;
+letter-spacing: 4px;
 }
 
 .marca p {
 margin: 5px 0;
 text-align: justify;
+line-height: 1.5;
 }
 
 .navegacion {
@@ -54,9 +56,10 @@ gap: 30px;
 padding-right: 40px;
 }
 
-.navegacion a {
-text-decoration: none;
+.navegacion a:hover {
+text-decoration: underline;
 color: #1A1A1A;
+font-size: 14px;
 }
 
 .proyectos {
